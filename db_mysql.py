@@ -7,7 +7,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
           host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt"
         )
         myCursor = mydb.cursor()
@@ -30,7 +30,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
             host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
             user="phongntt",
-            passwd="phongntt",
+            passwd="devpanel123",
             database="phongntt"
         )
         myCursor = mydb.cursor()
@@ -46,7 +46,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
           host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt"
         )
         myCursor = mydb.cursor()
@@ -63,7 +63,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
           host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt"
         )
         myCursor = mydb.cursor()
@@ -98,7 +98,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
           host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt",
           #use_pure=True
         )
@@ -126,7 +126,7 @@ class mySQL_DB():
 
         mydb = mysql.connector.connect(host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt",
           use_pure=True)
 
@@ -157,7 +157,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
           host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
           user="phongntt",
-          passwd="phongntt",
+          passwd="devpanel123",
           database="phongntt",
           #use_pure=True
         )
@@ -171,7 +171,7 @@ class mySQL_DB():
         mydb = mysql.connector.connect(
 		host="phongntt.cfoco8xqahph.ap-southeast-1.rds.amazonaws.com",
 		user="phongntt",
-		passwd="phongntt",
+		passwd="devpanel123",
 		database="phongntt",
 		#use_pure=True
 		)
